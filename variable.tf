@@ -7,7 +7,7 @@ variable "instance_type" {
 }
 
 variable "s3_bucket_name" {
-    default = "terraformtaskbucket"
+    default = "terraformtaskbucket01"
   
 }
 
