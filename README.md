@@ -65,7 +65,6 @@ terraform destroy
 
 - Hands-on experience with multiple EC2 provisioning
 - Security Group configuration
-- Tag management using `merge()` function
 - S3 bucket creation and versioning
 - Infrastructure as Code best practices
 
